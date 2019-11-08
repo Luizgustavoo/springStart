@@ -18,6 +18,7 @@ public class User implements Serializable {
 	private String email;
 	private String telefone;
 	private String senha;
+	
 	public Long getId() {
 		return id;
 	}
